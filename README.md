@@ -1,2 +1,1 @@
-# Plantilla para pagina web de ventas HTML5 y CSS vanilla
-# Alexmar Gómez 
+Plantilla para pagina web de ventas HTML5 y CSS vanillaAlexmar Gómez 
